@@ -4,6 +4,6 @@
 ## Repository
 - `takealook-front` : 떼껄룩 프로젝트 프론트엔드
 - `takealook-sdk` : 떼껄룩 프로젝트 library 개발 및 sdk 추출
-- `takealook-docs` : 떼껄룩 프로젝트 문서 저장소
+- `takealook-docs` : 떼껄룩 프로젝트 문서 저장소 (프로젝트 스케줄 및 회의 자료, etc.)
 
 
