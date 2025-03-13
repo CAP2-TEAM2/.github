@@ -1,12 +1,9 @@
-## Hi there 👋
+# Take a Look
+웹캠으로 제스쳐를 인식하여 생산성 향상과 간강한 자세를 유지하도록 유도하는 프로젝트
 
-<!--
+## Repository
+- `takealook-front` : 떼껄룩 프로젝트 프론트엔드
+- `takealook-sdk` : 떼껄룩 프로젝트 library 개발 및 sdk 추출
+- `takealook-docs` : 떼껄룩 프로젝트 문서 저장소
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
